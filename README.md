@@ -13,13 +13,7 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pavith00/count.svg?"  />
-</div>
-
-###
 
 <h1 align="center">hey there 👋</h1>
 
@@ -31,6 +25,13 @@
 
 <br>- 🔭 I’m currently working on [Recipe Sharing Website](https://github.com/Pavith00/RecipeSharing.git)<br><br>- 🌱 I’m currently learning **Machine Learning**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Pavith00/portfolio.git](https://github.com/Pavith00/portfolio.git)<br><br>- 📫 How to reach me **rmpramanayake@gmail.com**
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Pavith00/count.svg?"  />
+</div>
+
+###
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
