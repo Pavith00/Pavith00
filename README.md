@@ -22,11 +22,11 @@ Here are some of the technologies and tools I work with:
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavith00&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavith00&layout=compact&theme=radical)
 
 ## Connect with Me
 
@@ -47,5 +47,5 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=your-github-Pavith00&color=blueviolet)
 
