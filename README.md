@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://Pavith00.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm an undergraduate of university of Kelaniya Sri Lanka</div>  
