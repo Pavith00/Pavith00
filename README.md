@@ -102,15 +102,7 @@
 </div>
 
 ###
-## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=Pavith00&theme=onestar" alt="GitHub Trophies" />
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Pavith00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Pavith00/count.svg?"  />
