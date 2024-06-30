@@ -103,12 +103,12 @@
 
 ###
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?Pavith00=ryo-ma&theme=onestar)
+[![](https://github-profile-trophy.vercel.app/?Pavith00=ryo-ma&theme=onestar)]
 
 ### 🔝 Top Contributed Repo
-<center>
-![](https://github-contributor-stats.vercel.app/api?username=Pavith00&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</center>
+
+[![](https://github-contributor-stats.vercel.app/api?username=Pavith00&limit=5&theme=dark&combine_all_yearly_contributions=true)]
+
 
 ###
 
