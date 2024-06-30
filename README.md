@@ -103,7 +103,7 @@
 
 ###
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)
+![](https://github-profile-trophy.vercel.app/?Pavith00=ryo-ma&theme=onestar)
 
 ### 🔝 Top Contributed Repo
 <center>
