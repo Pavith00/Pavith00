@@ -23,7 +23,7 @@
 
 ###
 
-<br>- 🔭 I’m currently working on [Recipe Sharing Website](https://github.com/Pavith00/RecipeSharing.git)<br><br>- 🌱 I’m currently learning **Machine Learning**<br><br>- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Pavith00/portfolio.git)<br><br>- 📫 How to reach me **rmpramanayake@gmail.com**
+<br>- 🔭 I’m currently working on [Recipe Sharing Website](https://github.com/Pavith00/RecipeSharing.git)<br><br>- 🌱 I’m currently learning **Machine Learning**<br><br>- 👨‍💻 All of my projects are available at [My Portfolio](https://pavith00.github.io/myportfolio)<br><br>- 📫 How to reach me **rmpramanayake@gmail.com**
 
 
 ###
