@@ -103,7 +103,7 @@
 
 ###
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?Pavith00=ryo-ma&theme=onestar)
+  <img src="https://github-profile-trophy.vercel.app/?username=Pavith00&theme=onestar" alt="GitHub Trophies" />
 
 ### 🔝 Top Contributed Repo
 
