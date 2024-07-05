@@ -81,7 +81,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="visualstudio logo"  />
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)"/>
 </div>
 
 ###
