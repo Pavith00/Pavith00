@@ -17,7 +17,7 @@
 
 <h1 align="center">hey there 👋 I'm Pavithra Ramanayake</h1>
 
-###
+#
 
 <h3 align="left">👩‍💻  About Me</h3>
 
