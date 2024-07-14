@@ -85,21 +85,15 @@
 
 ###
 
-# 📊 GitHub Stats:
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Pavith00&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-</div>
 
-###
-
-<div align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Pavith00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavith00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Pavith00&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pavith00&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavith00&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
