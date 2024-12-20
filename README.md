@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="200">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="200">
+  <img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="250">
 </div>
   
 ###
@@ -16,7 +15,7 @@
 
 
 
-<h1 align="center">hey there 👋 I'm Pavithra Ramanayake </h1>
+<h1 align="center">hey there 👋 I'm Pavithra Ramanayake   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="200"></h1>
 
 #
 
