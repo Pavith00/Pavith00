@@ -16,8 +16,6 @@
 
 
 <h1 align="center">hey there 👋 I'm Pavithra Ramanayake  </h1>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="200">
-
 #
 
 <h1 align="left">👩‍💻 About Me</h1>
