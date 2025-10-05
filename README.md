@@ -62,10 +62,6 @@
 
 
 ###
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pavith00/count.svg?"  />
-</div>
 
-###
 
 
