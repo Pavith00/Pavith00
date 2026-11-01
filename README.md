@@ -60,6 +60,8 @@
 
 </div>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pavith00&theme=holi)
+
 
 ###
 
